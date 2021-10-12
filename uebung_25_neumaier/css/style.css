@@ -1,0 +1,58 @@
+body{
+    background-color: #E1ECF9;
+}
+
+.productBox{
+    width: 600px;
+    background-color: #609CE1;
+    border: 20px solid #4481aa;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 2.5%;
+    padding: 20px;
+}
+
+.description{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+.imgPhone{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    display: block;
+}
+
+.imgNotebook{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: #133863;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: #133863;
+    text-align: center;
+}
+
+hr{
+    color: #091D34;
+}
+
+a{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-style: initial;
+    color: #E1ECF9; 
+}
