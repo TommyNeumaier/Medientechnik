@@ -1,0 +1,72 @@
+body{
+    font-family: Calibri, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+}
+
+#h1{
+    text-align: center;
+    background-color: #c75b12;
+}
+
+#div{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img{
+    height: 50px;
+    text-align: center;
+}
+
+.Box{
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin-left: 35%;
+}
+
+#Access{
+    font-family: serif;
+    font-size: 20px;
+    background-color:red;
+}
+
+#Excel{
+    font-family: serif;
+    font-size: 20px;
+    background-color: green;
+
+}
+#OneDrive{
+    font-family: serif;
+    font-size: 20px;
+    background-color: blue;
+}
+
+#OneNote{
+    font-family: serif;
+    font-size: 20px;
+    background-color: purple;
+}
+
+#PowerPoint{
+    font-family: serif;
+    font-size: 20px;
+    background-color: orangered;
+}
+
+#Sway{
+    font-family: serif;
+    font-size: 20px;
+    background-color: turquoise;
+}
+
+#Word{
+    font-family: serif;
+    font-size: 20px;
+    background-color: rgb(19, 51, 158);
+}
