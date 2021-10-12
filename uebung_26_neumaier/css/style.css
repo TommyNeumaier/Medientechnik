@@ -1,0 +1,75 @@
+body{
+    background-color: #E1ECF9;
+}
+
+.productBox{
+    width: 600px;
+    background-color: #609CE1;
+    border: 4px solid #4481aa;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0.5%;
+    padding: 20px;
+}
+
+.description{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+.imgPhone{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    display: block;
+}
+
+.imgNotebook{
+    width: 265px;
+    height: 265px;
+    display: block;
+    margin: auto;
+}
+
+.goText{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: #133863;
+    text-align: center;
+}
+
+.goAheadBackDiv{
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #609CE1;
+    border: 3px solid #4481aa;
+    margin-bottom: 2.5px;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: #133863;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color:  #133863;
+    text-align: center;
+}
+
+hr{
+    color: #091D34;
+}
+
+a{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-style: initial;
+    color: #E1ECF9; 
+    text-decoration: none;
+}
